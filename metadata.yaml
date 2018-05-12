@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '33194'
     url: http://www.gutenberg.org/2009/agents/33194
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28191#Opening-Ceremonies-of-the-New-York-and-Brooklyn-Bridge-May-24-1883
 gutenberg_issued: '2009-02-25'
 gutenberg_type: Text
 identifiers:
