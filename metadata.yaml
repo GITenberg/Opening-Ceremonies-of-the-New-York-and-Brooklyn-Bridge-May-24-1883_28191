@@ -1,0 +1,46 @@
+_repo: Opening-Ceremonies-of-the-New-York-and-Brooklyn-Bridge-May-24-1883_28191
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Littlejohn, A. N. (Abram Newkirk)
+    alias: Littlejohn, Abram Newkirk
+    birthdate: 1824
+    deathdate: 1901
+    gutenberg_agent_id: '33196'
+    url: http://www.gutenberg.org/2009/agents/33196
+  - agent_name: Hewitt, Abram S. (Abram Stevens)
+    birthdate: 1822
+    deathdate: 1903
+    gutenberg_agent_id: '33197'
+    url: http://www.gutenberg.org/2009/agents/33197
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kingsley, William C.
+    gutenberg_agent_id: '33193'
+    url: http://www.gutenberg.org/2009/agents/33193
+  - agent_name: Edson, Franklin
+    gutenberg_agent_id: '33195'
+    url: http://www.gutenberg.org/2009/agents/33195
+  - agent_name: Low, Seth
+    birthdate: 1850
+    deathdate: 1916
+    gutenberg_agent_id: '33194'
+    url: http://www.gutenberg.org/2009/agents/33194
+description: ''
+gutenberg_issued: '2009-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28191'
+  lccn: 06043811
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brooklyn Bridge (New York, N.Y.)'
+- !lcc 'TG'
+title: Opening Ceremonies of the New York and Brooklyn Bridge, May 24, 1883
+url: http://www.gutenberg.org/ebooks/28191
